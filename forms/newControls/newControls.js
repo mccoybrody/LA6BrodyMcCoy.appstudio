@@ -24,5 +24,5 @@ slt.onchange=function(){
 
 nav.onclick=function(){
   if (typeof i == "object") return;
-  NSB.MsgBox
-}
+  NSB.MsgBox("Item clicked:" + nav.value);
+};
