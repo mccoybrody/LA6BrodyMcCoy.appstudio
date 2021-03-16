@@ -1,3 +1,4 @@
+/*
 function addTwo(n1,n2) {
   return Number(n1) + Number(n2)
   }
@@ -18,4 +19,4 @@ btnMultiply.onclick=function(){
 btnClear.onclick=function(){
   lblCalculator.value = ""
 }
-
+*/
